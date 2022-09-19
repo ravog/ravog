@@ -2,7 +2,7 @@
 
 My name is Hugo, I'm from Paraguay and I work as Data & Software Ingeneer.
 
-* Currently working for [databiz](https://databiz.com.py/) as a Data & Software Ingeneer.
+* Currently working for [Databiz S.A.](https://databiz.com.py/) as a Data & Software Ingeneer.
 
 ## Skills
 
@@ -13,4 +13,4 @@ My name is Hugo, I'm from Paraguay and I work as Data & Software Ingeneer.
 
 ## Contact
 
-Find me through my profile in [linkedind](https://www.linkedin.com/in/hugo-vargas-8b373116b/)
+Find me through my profile in [Linkedin](https://www.linkedin.com/in/hugo-vargas-8b373116b/)
